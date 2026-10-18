@@ -27,10 +27,10 @@ Computer use refers to artificial intelligence agents and multimodal models capa
 
 - [CogAgent](https://github.com/THUDM/CogVLM) - Visual language foundation model specialized for GUI understanding and navigation across desktop and mobile.
 - [Ferret-UI](https://github.com/apple/ml-ferret) - Multimodal large language model tailored by Apple for mobile and desktop user interface screen understanding.
-- [Fuyu-8B](https://www.adept.ai/blog/fuyu-8b) - Small, fast multimodal architecture designed by Adept AI for screen parsing and agentic action generation.
+- [Fuyu-8B](https://huggingface.co/adept/fuyu-8b) - Small, fast multimodal architecture designed by Adept AI for screen parsing and agentic action generation.
 - [OmniParser](https://github.com/microsoft/OmniParser) - Screen parsing tool by Microsoft that converts UI screenshots into structured icon, text, and bounding-box graphs.
 - [OS-Atlas](https://github.com/OS-Copilot/OS-Atlas) - Foundation action model tailored for cross-platform GUI grounding across operating systems and the web.
-- [SeeClick](https://github.com/nju-websoft/SeeClick) - Visual grounding model for GUI agent actions through direct coordinate prediction.
+- [SeeClick](https://github.com/njucckevin/SeeClick) - Visual grounding model for GUI agent actions through direct coordinate prediction.
 - [ShowUI](https://github.com/showlab/ShowUI) - Lightweight vision-language model trained for high-resolution visual desktop and web grounding.
 - [UI-TARS](https://github.com/bytedance/UI-TARS) - End-to-end GUI agent model developed by ByteDance with native OS actuation and visual reasoning capabilities.
 
@@ -46,26 +46,25 @@ Computer use refers to artificial intelligence agents and multimodal models capa
 
 - [AndroidWorld](https://github.com/google-research/android_world) - Dynamic, fully interactive benchmarking environment developed by Google for mobile UI agents.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Multimodal benchmark for evaluating open-ended computer tasks in real operating system environments.
-- [ScreenSpot](https://github.com/nju-websoft/ScreenSpot) - Benchmark for evaluating GUI visual grounding accuracy across desktop, mobile, and web interfaces.
+- [ScreenSpot](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) - Benchmark for evaluating GUI visual grounding accuracy across desktop, mobile, and web interfaces.
 - [VisualWebArena](https://github.com/web-arena-x/visualwebarena) - Multi-modal web benchmark for evaluating autonomous visual agents on complex realistic web tasks.
 - [WebArena](https://github.com/web-arena-x/webarena) - Realistic web environment benchmark assessing autonomous agent capabilities across e-commerce, forums, and developer tools.
-- [WindowsArena](https://github.com/microsoft/WindowsArena) - Benchmarking platform created by Microsoft for evaluating computer-use agents on Windows OS tasks.
+- [WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) - Benchmarking platform created by Microsoft for evaluating computer-use agents on Windows OS tasks.
 
 ## Protocols and Accessibility Interfaces
 
-- [Accessibility API (AT-SPI2)](https://gitlab.gnome.org/GNOME/at-spi2-core) - Standard Assistive Technology Service Provider Interface enabling semantic GUI accessibility on Linux desktops.
+- [Accessibility API (AT-SPI2)](https://github.com/GNOME/at-spi2-core) - Standard Assistive Technology Service Provider Interface enabling semantic GUI accessibility on Linux desktops.
 - [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Open standard developed by Anthropic for connecting AI models to desktop environments and external developer tools.
 - [UIAutomation (Win32 UIA)](https://learn.microsoft.com/en-us/windows/win32/winauto/entry-uiauto-win32) - Microsoft Windows accessibility framework enabling programmatic UI inspection and event dispatch.
 
 ## Datasets and Pretraining Corpora
 
 - [AITW (Android-in-the-Wild)](https://github.com/google-research/google-research/tree/master/android_in_the_wild) - Large-scale dataset of human device interactions across Android applications.
-- [GUI-Act](https://huggingface.co/datasets/bytedance-research/GUI-Act) - Diverse dataset of desktop, mobile, and web trajectories for training multimodal computer agents.
 - [Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - Dataset for developing and evaluating generalist web agents across multi-domain tasks.
 
 ## Research Papers and Surveys
 
-- [A Survey on Computer Use Agents](https://arxiv.org/abs/2411.00000) - Comprehensive survey of vision-language models and reinforcement learning frameworks for GUI automation.
+- [A Survey on GUI Agents](https://arxiv.org/abs/2410.05243) - Comprehensive survey of vision-language models and reinforcement learning frameworks for GUI automation.
 - [OSWorld: Benchmarking Multimodal Agents on OS](https://arxiv.org/abs/2404.07972) - Foundational paper introducing real-world multimodal operating system task benchmarks.
 - [UI-TARS: An End-to-End GUI Agent](https://arxiv.org/abs/2501.12332) - Architecture and empirical results for native vision-language computer control.
 
