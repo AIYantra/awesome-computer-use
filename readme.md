@@ -36,6 +36,7 @@ Computer use refers to artificial intelligence agents and multimodal models capa
 
 ## Agent Frameworks and Orchestrators
 
+- [agent-qa](https://vostride.com) - QA agent for web, Android, and iOS with persistent memory, screenshot evidence, and self-improvement guided by verified runs (FSL-1.1-ALv2). [GitHub](https://github.com/vostride/agent-qa).
 - [Agent-S](https://github.com/simular-ai/Agent-S) - Autonomous GUI agent framework featuring hierarchical planning and multi-modal experience learning.
 - [BrowserGym](https://github.com/ServiceNow/BrowserGym) - Ecosystem of web environments and benchmark interfaces for evaluating computer-use agents.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Collaborative multi-agent orchestration framework supporting autonomous desktop tool use.
